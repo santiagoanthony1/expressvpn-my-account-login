@@ -74,7 +74,7 @@ Make it a habit to check for app updates through your dashboard. Updated version
 
 Frequently Asked Questions (FAQs)
 What is the ExpressVPN my account login page URL?
-You can access it directly by visiting https://www.expressvpn.com/sign-in.
+You can access it directly by visiting official website.
 
 Can I log in on multiple devices?
 Yes, ExpressVPN supports multiple simultaneous connections, typically up to eight depending on your plan.
